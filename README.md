@@ -1,7 +1,7 @@
 # ♟️ Chess Game
 
 ## 📝 Proje Açıklaması
-Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, interaktif bir çevrimiçi satranç oyunudur. Kullanıcılar hem bilgisayara karşı hem de gerçek rakiplerle çevrimiçi olarak satranç oynayabilirler.
+Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, interaktif  satranç oyunudur. 
 
 ## 🛠️ Kullanılan Teknolojiler
 **Frontend:** React.js  
