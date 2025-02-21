@@ -5,8 +5,7 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, interaktif  sa
 
 ## 🛠️ Kullanılan Teknolojiler
 **Frontend:** React.js  
-**Veritabanı:** MongoDB  
-**Stil:** CSS3 & Material-UI  
+**Stil:** Tailwind CSS
 **State Management:** Redux  
 
 ## ⚙️ Kurulum
